@@ -1,8 +1,5 @@
-Shahzaibhaiderali#
 <img alt="Coding" style="border-radius:16px;" src="https://github.com/Shahzaibhaiderali/Shahzaibhaiderali-/blob/master/banner.png?raw=true" width="100%">
-
 <h3 align="center" style="margin-top: 4px;">MERN Stack Software Developer | Full-Stack JavaScript Engineer</h3>
-
 <p align="center">
   <b>
     <big>
@@ -12,14 +9,12 @@ Shahzaibhaiderali#
     </big>
   </b>
 </p>
-
 <h3 align="center">
   Feel free to reach out — whether you have a project in mind or just want to connect!
 </h3>
 <h2 align="left" style="font-weight:bold; font-size:28px; letter-spacing:2px; margin-bottom:20px;">
   🧠 CURRENTLY LEARNING
 </h2>
-
 <table align="left">
   <tr>
     <td align="center">
@@ -36,21 +31,9 @@ Shahzaibhaiderali#
     </td>
   </tr>
 </table>
-
 <p align="right" style="margin-top:-110px; margin-right:10px;">
   <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Cool GIF" width="400" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <a href="https://next-js-portfolio-five-gray.vercel.app/" target="_blank">
     <img 
@@ -60,17 +43,12 @@ Shahzaibhaiderali#
     />
   </a>
 </p>
-
-
-
-
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzaib-dev-haider-ali-a33216274/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
-  </a>
-  
+  </a>  
   <!-- Email icon -->
   <a href="mailto:shahzaibhaiderali1@gmail.com" target="_blank" style="padding:8px">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="email" />
