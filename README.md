@@ -1,4 +1,3 @@
-shahzaibhaiderali#
 <img alt="Coding" style="border-radius:16px;" src="https://github.com/Shahzaibhaiderali/Shahzaibhaiderali-/blob/master/banner.png?raw=true" width="100%">
 <h3 align="center" style="margin-top: 4px;">MERN Stack Software Developer | Full-Stack JavaScript Engineer</h3>
 <p align="center">
