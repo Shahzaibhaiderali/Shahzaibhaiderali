@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius:16px;" src="https://media.licdn.com/dms/image/D5616AQG3KbW4F6PcZg/profile-displaybackgroundimage-shrink_350_1400/0/1698166626714?e=1722470400&v=beta&t=1KQdO1I7n5B4p8Nc8r2fJ3U6C6KzDxJbP3y4V1wM9aU" width="100%">
+<img alt="Coding" style="border-radius:16px;" src="https://github.com/Shahzaibhaiderali/Shahzaibhaiderali-/blob/master/banner.png?raw=true" width="100%">
 
 <h3 align="center" style="margin-top: 4px;">MERN Stack Software Developer | Full-Stack JavaScript Engineer</h3>
 
